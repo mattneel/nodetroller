@@ -1,4 +1,4 @@
-# nodetroller [![Build Status](https://secure.travis-ci.org/matt/nodetroller.png?branch=master)](http://travis-ci.org/matt/nodetroller)
+# nodetroller [![Build Status](https://secure.travis-ci.org/mattneel/nodetroller.png?branch=master)](http://travis-ci.org/mattneel/nodetroller)
 
 A simple Home Automation monitor/controller
 
