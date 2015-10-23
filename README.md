@@ -4,5 +4,7 @@ A simple Home Automation monitor/controller
 
 ## Getting Started
 Install all the dependencies: `npm install`
+
 Run unit tests: `grunt nodeunit`
+
 Run the server: `node server.js`
