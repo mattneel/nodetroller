@@ -35,6 +35,7 @@
   },
   "keywords": [],
   "dependencies": {
+    "node-persist": "0.0.8",
     "uuid": "^2.0.1"
   }
 }
