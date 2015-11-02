@@ -17,6 +17,8 @@
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
+    <Compile Include="lib\httpAuthenticator.js" />
+    <Compile Include="lib\httpReporter.js" />
     <Compile Include="lib\sensorData.js" />
     <Compile Include="server.js" />
     <Compile Include="test\registerServer_test.js">
