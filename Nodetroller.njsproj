@@ -21,6 +21,8 @@
     <Compile Include="lib\httpReporter.js" />
     <Compile Include="lib\sensorData.js" />
     <Compile Include="server.js" />
+    <Compile Include="test\httpAuthenticator_test.js" />
+    <Compile Include="test\httpReporter_test.js" />
     <Compile Include="test\registerServer_test.js">
       <SubType>Code</SubType>
       <TestFramework>ExportRunner</TestFramework>
